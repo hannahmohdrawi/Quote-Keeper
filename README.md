@@ -82,5 +82,5 @@ Address each error by creating the necessary element in your index.html page, un
 * HTML
 * JavaScript
 
-##Project completed Date:
-* 07 Jul 24
+## Project completed date:
+* 07 Jul 2024
